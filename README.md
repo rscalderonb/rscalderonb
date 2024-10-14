@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rscalderonb" target="blank"><img src="https://img.shields.io/twitter/follow/rscalderonb?logo=twitter&style=for-the-badge" alt="rscalderonb" /></a> </p>
 
-- 🔭 I’m currently working on **IT/Infosec Consultancies and Dev related Projects**
+- 🔭 I’m currently working on **IT/Infosec consultancies and dev related projects**
 
 - 🌱 I’m currently learning **Full-Stack Development**
 

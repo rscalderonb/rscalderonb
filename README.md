@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
 ---------------------------
 ⚡ Fun fact: I love technology, coffee, movies, and music.
 
